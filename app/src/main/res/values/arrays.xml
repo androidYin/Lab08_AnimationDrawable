@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nba_logos">
+        <item>@drawable/nba_logo_knicks</item>
+        <item>@drawable/nba_logo_magic</item>
+        <item>@drawable/nba_logo_pistons</item>
+        <item>@drawable/nba_logo_spurs</item>
+        <item>@drawable/nba_logo_nets</item>
+        <item>@drawable/nba_logo_clippers</item>
+        <item>@drawable/nba_logo_76ers</item>
+        <item>@drawable/nba_logo_suns</item>
+        <item>@drawable/nba_logo_hornets</item>
+        <item>@drawable/nba_logo_raptors</item>
+        <item>@drawable/nba_logo_lakers</item>
+        <item>@drawable/nba_logo_warriors</item>
+    </array>
+    <string-array name="nba_logo_name">
+        <item>knicks</item>
+        <item>magic</item>
+        <item>pistons</item>
+        <item>spurs</item>
+        <item>nets</item>
+        <item>clippers</item>
+        <item>76ers</item>
+        <item>suns</item>
+        <item>hornets</item>
+        <item>raptors</item>
+        <item>lakers</item>
+        <item>warriors</item>
+    </string-array>
+</resources>
